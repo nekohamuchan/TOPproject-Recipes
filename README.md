@@ -1,2 +1,2 @@
-# TOPproject-Recipes
+# Odin-Recipes
 A curriculum project of The Odin Project
