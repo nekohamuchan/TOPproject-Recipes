@@ -1,12 +1,13 @@
 * {
     font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
 }
 
 body {
     background-color: #ddb23c;
     font-size: 32px;
     margin: 0 auto;
-    width: 50%;
+    
 }
 
 h1 {
@@ -23,4 +24,13 @@ img {
     height: auto;
     width: 600px;
     margin: 0 auto;
+}
+
+div {
+    display: block;
+    background-color: #f3eee3;
+    width: 800px;
+    height: auto;
+    margin: 50px auto;
+    padding: 30px 100px;
 }
